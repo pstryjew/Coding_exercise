@@ -2,7 +2,9 @@
 
 Pulumi - SE/CX Coding Exercise
 
-Please find my code for Option 1 It does not execute completely.
+Please find my code for Option 1 
+
+It does not execute completely.
 
 While all the of pieces work correctly outside of my Pulumi code, I can get them to deploy correctly
 
